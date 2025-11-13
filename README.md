@@ -10,7 +10,7 @@ This is a very simple army countdown timer that I made before going to the army.
 
 # License
 
-Project codebase is licensed under GNU v2.0 license. Please refer to the LICENSE.txt file for detailed information.
+Project codebase is licensed under GNU GPLv3 license. Please refer to the LICENSE.txt file for detailed information.
 
 
 # Contributing
