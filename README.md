@@ -2,7 +2,7 @@
 
 This is a very simple army countdown timer that I made before going to the army. It’s convenient to host publicly using GitHub Pages, and I used it comfortably as a personal “Dembel Timer.” If you want your own version, just fork the repository and change the timer settings in startDate and targetDate.
 
-**Test:** https://rezocrypt.github.io/ArmyTimer/
+**Test:** https://rezocrypt.github.io/ArmyTimer
 **Created:** 2024
 
 
